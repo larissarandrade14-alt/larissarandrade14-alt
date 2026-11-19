@@ -12,17 +12,22 @@ Power BI
 Snowflake
 
 🚀 Experiência profissional
+
 Jeitto
 STARTEQ Empresa Júnior
 
 📚 Atualmente estudando
+
 C#
 ASP.NET Core
 MongoDB
 Arquitetura de APIs
+Python
+Inteligência Artificial
 
 🎯 Objetivo
 Atuar como Analista de Sistemas/Application Support e migrar para desenvolvimento .NET.
 
 Tecnologias
+
 SQL | MongoDB | Power BI | Postman | C# | Python | Git
