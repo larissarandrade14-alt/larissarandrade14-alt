@@ -1,16 +1,27 @@
-## Hi there 👋
+Olá, eu sou Larissa Andrade
+🎓 Estudante de Análise e Desenvolvimento de Sistemas – SENAC
 
-<!--
-**larissarandrade14-alt/larissarandrade14-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Atuação em:
 
-Here are some ideas to get you started:
+Application Support
+SQL
+MongoDB
+APIs REST
+Power BI
+Snowflake
+🚀 Experiência profissional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Jeitto
+STARTEQ Empresa Júnior
+📚 Atualmente estudando
+
+C#
+ASP.NET Core
+MongoDB
+Arquitetura de APIs
+🎯 Objetivo
+
+Atuar como Analista de Sistemas/Application Support e migrar para desenvolvimento .NET.
+
+Tecnologias
+SQL | MongoDB | Power BI | Postman | C# | Python | Git
