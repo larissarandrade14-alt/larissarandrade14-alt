@@ -16,9 +16,9 @@ Atualmente, estou aprofundando meus conhecimentos em programação, bancos de da
 
 ### Linguagens e desenvolvimento
 - C#
-- Python (fundamentos)
+- Python 
 - Programação Orientada a Objetos
-- .NET (em aprendizado)
+- .NET 
 
 ### Banco de dados e análise
 - SQL
