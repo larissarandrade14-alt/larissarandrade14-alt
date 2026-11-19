@@ -10,18 +10,18 @@ MongoDB
 APIs REST
 Power BI
 Snowflake
-🚀 Experiência profissional
 
+🚀 Experiência profissional
 Jeitto
 STARTEQ Empresa Júnior
-📚 Atualmente estudando
 
+📚 Atualmente estudando
 C#
 ASP.NET Core
 MongoDB
 Arquitetura de APIs
-🎯 Objetivo
 
+🎯 Objetivo
 Atuar como Analista de Sistemas/Application Support e migrar para desenvolvimento .NET.
 
 Tecnologias
